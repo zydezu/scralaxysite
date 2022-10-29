@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-  <title>Archive | zydezu</title>
+  <title>Home | SMS Site</title>
   <!--metadata-->
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -10,31 +10,35 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
   <link rel="stylesheet" href="style.css"/>
   <!--scripts-->
+  <script type="text/javascript" src="scripts/tags.js"></script>
 </head>
-<body>
-  <video src="backgrounds/Scralaxy.png" autoplay loop muted playsinline id="videoBG"></video>
+<body onload="checkTags()">
+  <img src="backgrounds/Scralaxy.png" autoplay loop muted playsinline id="videoBG"></img>
   <nav>
 
   </nav>
   <main>
-    <div class="pageTitle">Super Mario Scralaxy</div>
-    <div class="pageDesc">Images of all tweets and replies, since the account was banned...</div>
-    <blockquote class="info">
-      <b>NOTE:</b><br/>
-      These images are large (1920 x 28800) and may load slowly. Make sure to zoom in.
+    <div class="pageTitle">Super Mario Scralaxy Site</div>
+    <div class="pageDesc">A page full of insights, updates and maybe some secrets!</div>
+    <blockquote class="rainbow">
+      <b>WARNING:</b><br/>
+      This website is unfinished!
     </blockquote>
-    <h2>Screenshots</h2>
-    <li><a href="zydezu/1.png">1.png</a></li>
-    <li><a href="zydezu/2.png">2.png</a></li>
-    <li><a href="zydezu/3.png">3.png</a></li>
-    <li><a href="zydezu/4.png">4.png</a></li>
-    <li><a href="zydezu/5.png">5.png</a></li>
-    <li><a href="zydezu/6.png">6.png</a></li>
-    <li><a href="zydezu/7.png">7.png</a></li>
-    <li><a href="zydezu/8.png">8.png</a></li>
-    <li><a href="zydezu/9.png">9.png</a></li>
-    <li><a href="zydezu/10.png">10.png</a></li>
-    <li><a href="zydezu/11.png">11.png</a></li>
-  </main>
+    <p id="postCounts"><b>Posts:</b> 2</p>
+    <p id="tagMessage"></p>
+
+    <div class="post">
+      <a class="title" href="">test2</a>
+      <div class="desc">!</div>
+      <span class="date">2022-08-10</span> |
+      <span class="tags"><a class="tag" href="#test2">test2</a></span>
+    </div>
+
+    <div class="post">
+      <a class="title" href="">test1</a>
+      <div class="desc">!</div>
+      <span class="date">2022-08-10</span> |
+      <span class="tags"><a class="tag" href="#test1">test1</a></span>
+    </div>
 </body>
 </html>
