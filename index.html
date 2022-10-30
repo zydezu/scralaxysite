@@ -10,14 +10,11 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
   <link rel="stylesheet" href="style.css"/>
   <!--scripts-->
-  <script type="text/javascript" src="scripts/tags.js"></script>
+  <script type="text/javascript" src="scripts/title.js"></script>
 </head>
-<body onload="checkTags()">
-  <img src="backgrounds/Scralaxy.png" autoplay loop muted playsinline id="videoBG"></img>
+<body onload="sparkle()">
+  <video class="spaceBackground" src="assets/titlescreen/spaceBackground.webm" autoplay loop muted playsinline></video>
   <main>
-    <div class="pageTitle">Super Mario Scralaxy Site</div>
-    <div class="pageDesc"></div>
-
     <nav>
       <span class="header"><a href="versions.html">Previous Versions</a></span>
       <span class="header"><a href="blog.html">Blog</a></span>
@@ -28,7 +25,10 @@
       This website is unfinished!
     </blockquote>
 
-
+    <!--Start Logo-->
+    
+    <div id="flash" class="center"><img id="logo" class="logo" src="assets/titlescreen/logo.svg" width="1000" height="auto"></div>
+    <div id="fadeIn" class="center"><img id="pressZX" class="pressZX" src="assets/titlescreen/PressZX.svg" width="500" height="auto"></div>
 
 </body>
 </html>
