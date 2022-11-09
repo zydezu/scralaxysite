@@ -10,8 +10,8 @@ document.addEventListener('keydown', (event) => {
     keysPressed[event.key] = true;
     if (keysPressed['z'] && event.key == 'x' || keysPressed['x'] && event.key == 'z') {
         document.getElementById("pressZX").src = "assets/titlescreen/ZXGlow.svg";
-        //var pageToGo = "blog.html";
-        //window.location.href = pageToGo;
+        var pageToGo = "blog.html";
+        window.location.href = pageToGo;
     } else if (event.key == 'z'){
         document.getElementById("pressZX").src = "assets/titlescreen/ZGlow.svg";
     } else if (event.key == 'x'){
