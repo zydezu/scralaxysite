@@ -1,0 +1,42 @@
+Mario¶¬Mario is the main character of the game. His jumps aren't high, but they aren't low either. Same for his speed. He's good with beginners.¬
+Luigi¶¬Luigi is Mario's twin brother. He can jump quite a bit higher than Mario. After overcoming his fear, he is ready for a new adventure!¬
+Stefano¶¬Stefano is Mario and Luigi's long lost third brother. He was lost in a far away galaxy for years, but was rescued by a woman in a blue dress and is now ready for a new adventure!¬
+Wario¶¬Wario's not the fastest, but he is pretty powerful! His weight might even help him get to secret areas... and nab that gold!¬
+Waluigi¶¬Waluigi time! Waluigi is super fast and a good swimmer. He's also just awesome, I mean... who doesn't like a strange skinny man with a pointy moustache yelling 'WAH' all the time?¬
+Wafano¶¬His family relationship with Wario and Waluigi is unknown... He can jump high, run at an average speed and is able to perform a powerful kick attack!¬
+Captain Toad¶¬The leader of the Toad Brigade is joining the adventure! Usually he's unable to jump, but with his new hover springboard, he can get around with ease!¬
+Shell Pong¶¬A flying shell bounces around the stage. You need it to bounce it using your paddle as many times as you can! Use the arrow keys to move Mario.¬
+Toad Pong¶¬The classic table tennis game pong, but with Toads! Blue Toad uses the arrow keys and Yellow Toad uses WASD. The Toads cannot jump, so work together!¬
+Stefano Fly¶¬Stefano has grabbed a Red Star, so he can fly! Use the up and down arrow keys to move and collect coins to increase your score. If you miss one, it will reset.¬
+Find Luigi¶¬Luigi is hiding on the screen somewhere... click or tap his quickly to score the most points, but be careful to not click on anything else!¬
+Paratroopa Hunt¶¬Click the flying Paratroopas to zap them. If you zap something else, or let the Paratroopas fly away, it's game over!¬
+Golden Start: ¬Get 10 coins¬¶®Reward: +5 金®
+Star Get!: ¬Collect a star¬¶®Reward: +5 金®
+Secret Treasure: ¬Find a large pile of coins¬¶®Reward: +5 金®
+First Battle: ¬Defeat Spearhead¬¶®Reward: +5 金®
+Goodbye Green!: ¬Complete Green Grass Galaxy¬¶®Reward: +5 金®
+Aim for the Sky: ¬Switch to Luigi¬¶®Reward: +5 金®
+Evil Mushrooms: ¬Defeat five goombas¬¶®Reward: +5 金®
+3UP: ¬Get three gold mushrooms¬¶®Reward: +5 金®
+Your Cart: ¬Complete a minecart ride¬¶®Reward: +5 金®
+10 and Counting!: ¬Collect 10 stars¬¶®Reward: +5 金®
+Big Prize: ¬Get two big stars¬¶®Reward: +25 金®
+Goomba Control: ¬Defeat 10 goombas¬¶®Reward: +25 金®
+All of the Falls: ¬Complete Fantastic Falls Scralaxy¬¶®Reward: +25 金®
+From a Galaxy Far Away!: ¬Switch to Stefano¬¶®Reward: +25 金®
+Switch Flip: ¬Complete 'Flip Before you Dive'¬¶®Reward: +25 金®
+Tactical: ¬Defeat an enemy by kicking shell¬¶®Reward: +25 金®
+Grand Goal: ¬Collect a Grand Star¬¶®Reward: +25 金®
+Triple Digits: ¬Collect 300 coins¬¶®Reward: +25 金®
+Go Forth!: ¬Complete four scralaxies¬¶®Reward: +25 金®
+Star Streak: ¬Collect 15 stars¬¶®Reward: +25 金®
+7UP: ¬Get seven gold mushrooms¬¶®Reward: +50 金®
+Stay Healthy: ¬Get two life mushrooms¬¶®Reward: +50 金®
+Rule Breaker: ¬Switch to Wario¬¶®Reward: +50 金®
+Coin Addict: ¬Collect 1000 coins as Wario¬¶®Reward: +50 金®
+Bring 'Em On!: ¬Defeat four bosses¬¶®Reward: +50 金®
+Family Reunion: ¬Defeat 80 goombas¬¶®Reward: +50 金®
+Climbed the Tree: ¬Complete Grand Tree Scralaxy¬¶®Reward: +50 金®
+Surfing the Web!: ¬Complete Internet Exploration¬¶®Reward: +50 金®
+WAH is This?: ¬Switch to Waluigi¬¶®Reward: +50 金®
+Full eXPerience: ¬Complete Windows XP Scralaxy¬¶®Reward: +50 金®

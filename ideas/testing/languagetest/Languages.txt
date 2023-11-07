@@ -1,0 +1,202 @@
+<--English-->
+You picked up a ¬火fire flower¬! All flowers allow you to ¬throw projectiles¬, in this case, ¬fire balls¬! Press ¬X¬ to do so!
+(UNUSED TEXT) If you see this... AAAAAAA
+That orange object is a ¬trampoline¬. Jump on it to ¬bounce high¬! Boing!
+You can ¬jump higher¬ than you think! Try ¬holding the up arrow key or W¬, then ¬diving¬ onto that platform.
+See that ¬green pipe¬ over there? You can enter it to access a ¬world¬, to enter, ¬stand¬ on top of it and press the ¬down arrow¬ or ¬S key¬.
+(UNUSED TEXT) I really hope no-one sees this, wouldn't you agree?
+Try switching characters by pressing ¬space¬, ¬Luigi¬ can ¬jump higher¬! If you ¬press S¬ or ¬the down arrow key¬ in the ¬air¬, you can get an ¬extra boost¬!
+¬Click a star¬ to start ¬a mission¬. Collect ¬stars¬ to ¬unlock new worlds¬!
+¬Missed something?¬ ¬Walk¬ back to the ¬left¬ and ¬grab it¬!
+To access this ✰¬big star¬, you need to ¬collect¬ the other ¬power stars¬ in this Scralaxy.
+You might need to press ¬the down arrow key¬ or ¬S¬ to perform a ¬kick¬ and land on that ¬lower platform¬.
+See that ¬block¬... There might be ¬goodies¬ in it! Break it by ¬hitting it¬ with your ¬head¬... or ¬fist¬... I can't remember...
+See that ¬green pipe¬ over there? You can enter it to access a ¬world¬, to enter, ¬stand¬ on top of it and press the ¬down arrow¬ or ¬S key¬.
+Welcome to ¬Super Mario Scralaxy¬! Use the ¬arrow keys¬ or ¬WASD keys¬ to move Mario. Walk to the ¬right¬ to progress!
+Use ¬the up arrow key¬ or ¬W key¬ to ¬jump¬ over that ¬pipe¬. Press ¬the down arrow key¬ or ¬S key¬ to ¬dive¬ and ¬move faster¬ through the level.
+¶         <- TOAD TOWN           PEACH'S CASTLE ->
+¡Toad:¡ Hey there, Mario! 姫¬Princess Peach¬ is waiting for you at the ¬castle¬!
+¡Toad:¡ Woah, look at all the ¬stars¬!
+¡Toad:¡ Welcome to the ¬Mushroom Kingdom¬!
+¡Luigi:¡ Hey there bro! Happy ¬Mushroom Festival¬!
+¡Wario:¡ There are so many ®coins 金®! We're rich! WAHAAAAAAA!
+¡Captain Toad:¡ Happy ¬Mushroom Festival¬! I want to go on an ¬adventure¬ soon!
+(unused) if you see this--------------- hide.
+You don't have enough ¬grand stars¬ to open this door!
+You don't have enough ¬power stars¬ to open this door!
+¬Stuck¬? Try ¬launching out¬ of the water by ¬pressing jump repeatedly¬.
+Be careful - these ¬platforms¬ turn ¬on or off¬     whenever you ¬dive¬. Watch out!
+You got a 火¬fire flower¬! Press ¬X¬ to shoot ¬fireballs¬ and ¬defeat enemies¬.
+You got an 氷¬ice flower¬! Use ¬X¬ to shoot ¬iceballs¬ and ¬freeze enemies¬. Run into the frozen enemies to ¬defeat them¬!
+You got a ¬power star¬!
+You got a ¬big star¬!
+This grand star has ¬opened up the basement¬! More Scralaxies await there...
+You can now visit ¬Deep Delve Scralaxy¬!
+You can now visit ¬Flip Switch Scralaxy¬!
+You can now visit ¬Fantastic Falls Scralaxy¬!
+You can now visit ¬Cloud Ship Scralaxy¬!
+The grand star has ¬opened a new floor of the castle¬! More Scralaxies await you...
+You can now play as ¬Luigi¬!
+You can now play as ¬Stefano¬!
+You can now play as ¬Wario¬!
+You're at the ¬castle¬! ¬Press or tap Z¬ to ¬open the door¬!
+That over there is a ¬minecart¬. It travels very fast, but can be ¬slown down¬ by ¬pressing left¬ or ¬A¬.
+You picked up a... 粘¬goo flower¬?! Press ¬X¬ to shoot ¬slime balls¬ and ¬trap enemies in place¬!
+You can now play as ¬Waluigi¬!
+You can now play as ¬Wafano¬!
+You can now play as ¬Captain Toad¬!
+You can now play as ¬Captain Toad¬!
+¡3DGoomba:¡ They said I couldn't stay because of 'clashing artstyles', but the internet is a huge mess, so I can look however I want!
+¡Kazooie:¡ What are you looking at, pipe cleaner? Go save the princess instead of staring at us!
+¬Bunny caught¬! New ¬minigames¬ are now available from the ¬Main Menu¬!
+(unused) this might be a bug! squish it!
+(unused) if you see this, that'll be a pain >.<
+You can now visit ¬Grand Tree Scralaxy¬!
+You can now visit ¬Windows XP Scralaxy¬!
+You can now visit ¬Tiki Tropic Scralaxy¬!
+You can now visit ¬Spooky Space Scralaxy¬!
+You can now visit ¬Shipwreck Scralaxy¬!
+You can now visit ¬Dilapidated Desert Scralaxy¬!
+You can now visit ¬Nocturnal Night Scralaxy¬!
+You can now visit ¬Sweet Sweet Scralaxy¬!
+You can now visit ¬Sky Puzzle Scralaxy¬!
+You can now visit ¬Fire Factory Scralaxy¬!
+You can now visit ¬Snow Hideout Scralaxy¬!
+You can now visit ¬Space Mine Scralaxy¬!
+You can now visit ¬Playful Plaza Scralaxy¬!
+You can now visit ¬Ski Slide Scralaxy¬!
+You can now visit ¬Lazy Lagoon Scralaxy¬!
+You can now visit ¬Raging Flame Scralaxy¬!
+You can now visit ¬Shiverburn Scralaxy¬!
+You can now visit ¬Mechanical Mess Scralaxy¬!
+You can now visit ¬Moon Base Scralaxy¬!
+You can now visit ¬Summit Scralaxy¬!
+(unused) IF YOU SEE THIS PLEASE PELASE PLEASE SOUND THE ALARM A SPY IS IN THE BASE!
+Thank you, ®MrManGuy®, for your contributions to Super Mario Scralaxy. May you rest in peace.
+To the right is the ¬Hall of Fame¬! Left are more ¬doors¬. Also... please check if anyone got lost in the basement, there's a lot of stuff there!
+Hmmm... "¬L is Real¬"... that ¬statue¬ sure is spooky... I think there's only one character here that can ¬solve¬ it's ¬secret¬...
+You got the ®world record time® for that ¬level¬! Congratulations!
+Help I'm ¬lost¬!! I fell out of that ¬suspicious pipe¬... it takes you ¬inside that box¬... that produces ¬strange sounds¬ sometimes... please let me back in...
+Welcome. Welcome to the ⊗world between the walls⊗. You're on a ⊗different plane of reality⊗... but hush... ⊗don't tell anyone⊗ about this place!
+Welcome to the ⊗club⊗! Welcome to the ⊗club⊗! ⊗Welcome welcome welcome welcome⊗!
+マリオ! ⊗MARIO! ⊗マリオ! ⊗MARIO! ⊗マリオ! ⊗MARIO! ⊗マリオ...you are ⊗Mario⊗ right? I've ⊗forgot what he looks like⊗, I've been ⊗stuck here for so long⊗.
+¡Luma:¡ Luma lee! Luma boop! I'm ⊗famished⊗! Feed me ®1500® 金 and I'll ⊗transform into a whole new scralaxy⊗... Wanna ⊗feed me⊗ the ®coins®?
+¡Luma:¡ Oh noooooooooooooooo.....
+¡Luma:¡ Oh nooooo... you don't have enough ®coins®!!
+¡Luma:¡ That's it, ⊗I'm stuffed⊗! It's time to ⊗TRANSFORMMMMMMMMMMMMMMMMM⊗!!!!!!
+¡Luma:¡ Would you like to travel to ⊗Playful Plaza Scralaxy⊗?
+¡Luma:¡ Lumaaaaaa! Lumeeeee! I'm ⊗famished⊗! Feed me ®4000® 金 and I'll ⊗transform into a whole new scralaxy⊗... Wanna ⊗feed me⊗ the ®coins®?
+¡Luma:¡ Oh dear......
+¡Luma:¡ Oh nooooo... go grab some more ®coins®!!
+¡Luma:¡ Thank you! ⊗I'm stuffed⊗! It's time to ⊗TRANSFORMMMMMMMMMMMMMMMMM⊗!!!!!!
+¡Luma:¡ Would you like to travel to ⊗Rugged Ruins Scralaxy⊗?
+¡Luma:¡ Luma lee! Where am I?! I'm ⊗famished⊗! Feed me ®500® 金 and I'll ⊗transform into a whole new scralaxy⊗! What do you say?
+¡Luma:¡ Oh noooo... come back later!!
+¡Luma:¡ Oh nooooo... you don't have 500 ®coins®!!
+¡Luma:¡ WOAH! ⊗I'm stuffed⊗! It's time to ⊗TRANSFORMMMMMMMMMMMMMMMMM⊗!!!!!!
+¡Luma:¡ Would you like to travel to ⊗Rabbit Race Scralaxy⊗?
+¡Luma:¡ Huh??? I've been ⊗here for a while⊗. I'd appreciate it if you could ⊗feed me⊗ ®8000® 金, I'll ⊗transform into a whole new scralaxy⊗! So...
+¡Luma:¡ Nom... nom.... nom??
+¡Luma:¡ HUH?!? That's not 8000 ®coins®?!
+¡Luma:¡ Yummy! ⊗I'm stuffed⊗! It's time to ⊗TRANSFORMMMMMMMMMMMMMMMMM⊗!!!!!!
+¡Luma:¡ Would you like to travel to ⊗Nebula Nearby Scralaxy⊗?
+This is where a star luma asking for all the stars in the game would ask you if you want to go the the final Scralaxy: Penultimate Palace!
+⊗-SUPER MARIO SCRALAXY-⊗ ¶A History...¶¶Use ¬arrows and Z¬ to ¬select an option¬.
+¬Super Mario Scralaxy¬ is the first game by the ¬Scralaxy Team¬, development was started by ®Pickleodeon® on ¬21st May 2017¬...
+The name ¬"Scralaxy Team"¬ was used later. While ¬initially¬ there was ¬no official group name¬, with the group ¬referring to itself¬ simply as ¬"Super Mario Scralaxy"¬, ¬"SMS"¬ or ¬"Team Pickelodeon"¬.
+Although ®Pickleodeon® ¬stopped development¬ on the game ¬later that year¬, the ¬rest of the team¬ continued to ¬develop the game¬.
+The game was ¬not planned¬ to be a fan game of ¬Super Mario Galaxy¬, but more a ¬culmination¬ of ¬past 3D Mario games¬.
+"Now that we have the physics engine all worked out  we should start level design. This will be an exploration based game like Mario 64..." - ¬An old studio comment from ¬®Pickleodeon®
+In the ¬early development¬ of the game, ¬updates¬ were ¬released quickly¬ and there were ¬many experimental features¬ at the time.
+Many ¬sprites and assets¬ were ¬drawn at this point¬, with many being from ®Misterythefox13®, who developed the ¬original art-style characters in the game¬ possess.
+¬Most sprites¬ were initially in a ¬bitmap¬ format, with them all eventually being ¬redrawn as vector sprites¬ later on.
+A ¬scrolling version¬ of the game was tested early, but it was ¬decided it was too laggy/buggy¬ at that point. A ¬scrolling engine¬ would be ¬implemented 5 years¬ later by ¬ToadFanSchool¬.
+¬Around v0.3.0s release¬, ®Pickleodeon® ¬announced¬ that he was "stepping down as the lead dev of [the] project." and that ¬everything else¬ would be up to ¬the decision¬ of the ¬remaining members¬.
+A bit after this, a ¬"dibs"¬ project was made by ®DoritoDude123® to ¬organise who was making planned updates¬. Here ¬project members¬ could ¬claim updates¬, signifying they would be ¬developing that update¬.
+On the ¬5th August 2018¬, the ®ScralaxyTeam® account was ¬created¬, giving a space to ¬organise various resources¬, such as the ¬idea vault¬.
+Around the ¬24th August 2018¬, the ¬Scralaxy Team 'Fandom' Wiki¬ was created, ¬documenting¬ the entire ¬Scralaxy Team¬ and ¬their games¬.
+¬Version 0.5.0¬ was released on ¬15th September 2018¬, marking the halfway point of the development of ¬Super Mario Scralaxy¬!
+¬Around 2021¬ the ¬updates seemed to stagnate¬. The cause of this is not clear, but can be attributed to ¬members moving on from Scratch¬,¬life getting busier¬ or ¬updates taking longer¬... ¬Super Mario Scralaxy¬ was in ¬limbo¬.
+¬Luckily¬ around the ¬end of 2021¬, several ¬team members¬ returned to the project to ¬continue developing updates¬...
+...and at this ¬present day¬ updates continue...
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED]
+[RESERVED END]
+Thank you ®Misterythefox13® for creating the ¬original character sprites¬ and ¬overall game art-style¬!
+A ¬note block¬! Hold ¬jump¬ whilst ¬bouncing off¬ them to ¬bounce higher¬! Wheee!
+Heha...! We are ¬not who you think¬!!
+BAM! You're ¬too late¬! The ¬merging¬ of ¬this universe¬ and ¬Subcon¬ has ¬already begun¬!
+Once we ¬complete this task¬, ¬Master¬ will ¬reward us handsomely¬... and you'll be ¬trapped¬ inside ¬endless scralaxies¬ forever!!
+Mwahahahahahaha!
+Oh look... the ¬Scralaxy portal¬! Enjoy your one-stop trip to nowhere!
+⊗Enter the code...⊗
+<--DIALOGUEEND-->
+Mario¶¬Mario is the main character of the game. His jumps aren't high, but they aren't low either. Same for his speed. He's good with beginners.¬
+Luigi¶¬Luigi is Mario's twin brother. He can jump quite a bit higher than Mario. After overcoming his fear, he is ready for a new adventure!¬
+Stefano¶¬Stefano is Mario and Luigi's long lost third brother. He was lost in a far away galaxy for years, but was rescued by a woman in a blue dress and is now ready for a new adventure!¬
+Wario¶¬Wario's not the fastest, but he is pretty powerful! His weight might even help him get to secret areas... and nab that gold!¬
+Waluigi¶¬Waluigi time! Waluigi is super fast and a good swimmer. He's also just awesome, I mean... who doesn't like a strange skinny man with a pointy moustache yelling 'WAH' all the time?¬
+Wafano¶¬His family relationship with Wario and Waluigi is unknown... He can jump high, run at an average speed and is able to perform a powerful kick attack!¬
+Captain Toad¶¬The leader of the Toad Brigade is joining the adventure! Usually he's unable to jump, but with his new hover springboard, he can get around with ease!¬
+Shell Pong¶¬A flying shell bounces around the stage. You need it to bounce it using your paddle as many times as you can! Use the arrow keys to move Mario.¬
+Toad Pong¶¬The classic table tennis game pong, but with Toads! Blue Toad uses the arrow keys and Yellow Toad uses WASD. The Toads cannot jump, so work together!¬
+Stefano Fly¶¬Stefano has grabbed a Red Star, so he can fly! Use the up and down arrow keys to move and collect coins to increase your score. If you miss one, it will reset.¬
+Find Luigi¶¬Luigi is hiding on the screen somewhere... click or tap his quickly to score the most points, but be careful to not click on anything else!¬
+Paratroopa Hunt¶¬Click the flying Paratroopas to zap them. If you zap something else, or let the Paratroopas fly away, it's game over!¬
+Golden Start: ¬Get 10 coins¬¶®Reward: +5 金®
+Star Get!: ¬Collect a star¬¶®Reward: +5 金®
+Secret Treasure: ¬Find a large pile of coins¬¶®Reward: +5 金®
+First Battle: ¬Defeat Spearhead¬¶®Reward: +5 金®
+Goodbye Green!: ¬Complete Green Grass Galaxy¬¶®Reward: +5 金®
+Aim for the Sky: ¬Switch to Luigi¬¶®Reward: +5 金®
+Evil Mushrooms: ¬Defeat five goombas¬¶®Reward: +5 金®
+3UP: ¬Get three gold mushrooms¬¶®Reward: +5 金®
+Your Cart: ¬Complete a minecart ride¬¶®Reward: +5 金®
+10 and Counting!: ¬Collect 10 stars¬¶®Reward: +5 金®
+Big Prize: ¬Get two big stars¬¶®Reward: +25 金®
+Goomba Control: ¬Defeat 10 goombas¬¶®Reward: +25 金®
+All of the Falls: ¬Complete Fantastic Falls Scralaxy¬¶®Reward: +25 金®
+From a Galaxy Far Away!: ¬Switch to Stefano¬¶®Reward: +25 金®
+Switch Flip: ¬Complete 'Flip Before you Dive'¬¶®Reward: +25 金®
+Tactical: ¬Defeat an enemy by kicking shell¬¶®Reward: +25 金®
+Grand Goal: ¬Collect a Grand Star¬¶®Reward: +25 金®
+Triple Digits: ¬Collect 300 coins¬¶®Reward: +25 金®
+Go Forth!: ¬Complete four scralaxies¬¶®Reward: +25 金®
+Star Streak: ¬Collect 15 stars¬¶®Reward: +25 金®
+7UP: ¬Get seven gold mushrooms¬¶®Reward: +50 金®
+Stay Healthy: ¬Get two life mushrooms¬¶®Reward: +50 金®
+Rule Breaker: ¬Switch to Wario¬¶®Reward: +50 金®
+Coin Addict: ¬Collect 1000 coins as Wario¬¶®Reward: +50 金®
+Bring 'Em On!: ¬Defeat four bosses¬¶®Reward: +50 金®
+Family Reunion: ¬Defeat 80 goombas¬¶®Reward: +50 金®
+Climbed the Tree: ¬Complete Grand Tree Scralaxy¬¶®Reward: +50 金®
+Surfing the Web!: ¬Complete Internet Exploration¬¶®Reward: +50 金®
+WAH is This?: ¬Switch to Waluigi¬¶®Reward: +50 金®
+Full eXPerience: ¬Complete Windows XP Scralaxy¬¶®Reward: +50 金®
+<--MENUSEND-->
+<--Spanish-->
+¡Has cogido una ¬火flor de fuego¬! Todas las flores te permiten ¬lanzar proyectiles¬, en este caso, bolas de fuego. Pulsa ¬X¬ para hacerlo.
+(UNUSED TEXT) If you see this... AAAAAAA
+Ese objeto naranja es un ¬trampolín¬. Salta sobre él para ¬rebotar alto¬. ¡Boom!
+Puedes ¬saltar más alto¬ de lo que crees. Mantén pulsada la tecla de flecha arriba o W¬ y ¬sumérgete¬ en la plataforma.
+¿Ves esa ¬tubería verde¬ de ahí? Puedes entrar en ella para acceder a un ¬mundo¬. Para entrar, ¬párate¬ encima de ella y pulsa la ¬flecha abajo¬ o la tecla ¬S¬.
+(UNUSED TEXT) I really hope no-one sees this, wouldn't you agree?
+Intenta cambiar de personaje pulsando ¬espacio¬, ¡puede que ¬Luigi¬ ¬salte más alto¬! Si ¬pulsas S¬ o la ¬tecla de flecha abajo¬ en el ¬aire¬, puedes conseguir un ¬impulso extra¬.
+Haz ¬clic en una estrella¬ para ¬iniciar una misión¬. Recoge ¬estrellas¬ para ¬desbloquear nuevos mundos¬.

@@ -1,0 +1,14 @@
+Super Mario Scralaxy Version 0.4.9 LEAKS
+August 26 2018
+
+A new title screen, with toadfanschool's new vector logo.
+
+A new main menu, with a MYSTERY mode...?! And mobile support is now available for the game!
+
+Updated pause menu, with new buttons, "Reset" kills your charactar, incase you get stuck somewhere. Guide gives you tips on the game.
+
+Mobile versoin UI (this is a pain to program, but it's done :D)
+
+There is now a "down-move" cooldown of 2 seconds.
+
+New missions, this one is about a Mine cart, the Minecart also has music now.

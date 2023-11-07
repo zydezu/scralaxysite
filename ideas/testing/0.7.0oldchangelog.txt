@@ -1,0 +1,16 @@
+- Fixed widescreen bugs in introduction
+- Changed some screen effects
+- Optimised flip block code
+- Spinning item box items will not despawn when switching screens
+- Fixed some delta timing errors
+- Fixed some object placement errors
+- The world now pauses when reading signs or speaking to NPCs
+- Fixed moving platforms at 60FPS
+- 8 red coins now need to be collected
+- Fixed red switches in 60FPS
+- Fixed going into pipes in widescreen
+- Optimised moving platforms
+- Changed some levels
+- Enemies now don't despawn if you follow them across the level
+- Fixed 'Too Bad!' text often being in the wrong position
+- Made collecting coins in a minecart easier!
