@@ -1,6 +1,25 @@
+const fullFlash = document.getElementById("fullFlash");
+const flash = document.getElementById("flash");
 const pressZX = document.getElementById("pressZX");
 var keysPressed = {};
-var titleHovered = 0;
+var loadingNextPage = false;
+var BGM = document.createElement('audio');
+BGM.loop = true
+localStorage.loadingNextPage = "false";
+
+let trackNames = [
+    `E3 Demo Bubble Intro - Super Mario Galaxy OST.mp3`,
+    `Freezeflame Galaxy (Ice) -  Super Mario Galaxy.mp3`,
+    `Observation Dome -  Super Mario Galaxy.mp3`,
+    `Slimy Spring Galaxy - Super Mario Galaxy 2.mp3`,
+    `Space Fantasy - Super Mario Galaxy.mp3`,
+    `Super Mario Galaxy 2 Soundtrack - Cosmic Cove Galaxy.mp3`,
+    `Super Mario Galaxy 2 Soundtrack - Sweet Mystery Galaxy.mp3`,
+    `To the Gateway - Super Mario Galaxy.mp3`
+]
+
+var track = trackNames[Math.floor(Math.random()*trackNames.length)];
+BGM.src = `assets/BGM/${track}`
 
 function random(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
@@ -22,32 +41,44 @@ document.addEventListener('keyup', () => {
     pressZX.src = "assets/titlescreen/PressZX.svg";
 });
 
-pressZX.addEventListener("click", () => {
-    flashGoToPage()
+flash.addEventListener("click", () => {
+    flashGoToPage();
 })
 
-function spawnSparkle() {
-    var img = document.createElement('img');
-    img.src = 'assets/titlescreen/sparkle.svg';
-    img.id = 'sparkle';
-    img.style.top = random(25, 50) + "%";
-    img.style.left = random(25, 75) + "%";
-    document.getElementById('flash').appendChild(img);
-    document.getElementById('sparkle').classList.add("sparkle");
-    setTimeout(deleteSparkle, 1000);
-}
-
-function sparkle() {
-    setInterval(spawnSparkle, random(650 - titleHovered, 1750 - titleHovered));
-}
-
-function deleteSparkle() {
-    var elements = document.getElementsByClassName('sparkle');
-    elements[0].remove();
-}
+pressZX.addEventListener("click", () => {
+    flashGoToPage();
+})
 
 function flashGoToPage() {
+    if (loadingNextPage) return;
+    localStorage.loadingNextPage = "true";
+    loadingNextPage = true;
     pressZX.src = "assets/titlescreen/ZXGlow.svg";
-    var pageToGo = "ideas/";
-    window.location.href = pageToGo;
+    playSound('assets/SFX/start.mp3');
+    fullFlash.classList.remove("hidden");
+
+    setTimeout(function () {
+        var pageToGo = "mainmenu.html";
+        window.location.href = pageToGo;
+    }, 1000)
 }
+
+function playSound(soundsrc) {
+    var sound = document.createElement('audio');
+    sound.src = soundsrc
+    sound.play();
+}
+
+function randomHoverSFX() {
+    var sound = document.createElement('audio');
+    sound.src = `assets/SFX/hover${Math.floor(Math.random() * 10) + 2}.mp3`
+    sound.play();
+}
+
+window.addEventListener('click', () => {
+    BGM.play();
+})
+
+window.addEventListener('keydown', () => {
+    BGM.play();
+})

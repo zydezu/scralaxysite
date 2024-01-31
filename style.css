@@ -14,8 +14,6 @@
   --sal: env(safe-area-inset-left);
   font-size: 16px;
   /*default size*/
-  /*resources/backgrounds/citysunset.gif*/
-  --bg: url('resources/backgrounds/spaceAnime.jpg');
   /*cursor: url(resources/cursor/arrow.cur), auto*/
   --audiohovercolour: #f86f6f;
 }
@@ -44,7 +42,6 @@ textarea,
 }
 
 @supports (font-variation-settings: normal) {
-
   body,
   button,
   input,
@@ -70,22 +67,6 @@ body {
   background-size: cover;
 }
 
-body.blogBG:before {
-  content: "";
-  position: fixed;
-  display: block;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -10;
-  background-image: var(--bg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  opacity: 0.25;
-}
-
 @supports(padding: max(0px)) {
   body {
     padding-left: max(20px, env(safe-area-inset-left));
@@ -99,6 +80,53 @@ body.blogBG:before {
   text-align: center;
 }
 
+#fullFlash {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  opacity: 0;
+  animation: flashToWhite 1.2s ease-in;
+  z-index: 5;
+}
+
+@keyframes flashToWhite {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#fullFlashFade {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  opacity: 0;
+  animation: flashDissolve 0.5s ease-out;
+  z-index: 5;
+  user-select: none;
+}
+
+@keyframes flashDissolve {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
 #flash {
   animation: flash 0.8s ease-out;
 }
@@ -109,7 +137,11 @@ body.blogBG:before {
 }
 
 .logo:hover {
-  filter: brightness(1.15)
+  filter: brightness(1.3);
+}
+
+#logoShadow {
+  filter: unset;
 }
 
 #fadeIn {
@@ -123,31 +155,6 @@ body.blogBG:before {
 
 .pressZX:hover {
   filter: brightness(1.15)
-}
-
-#sparkle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: scale(2);
-  animation: sparkle 1s linear;
-}
-
-@keyframes sparkle {
-  0% {
-    transform: scale(1) rotate(-70deg);
-    filter: opacity(0)
-  }
-
-  50% {
-    transform: scale(2.5) rotate(0deg);
-    filter: opacity(1)
-  }
-
-  100% {
-    transform: scale(1) rotate(70deg);
-    filter: opacity(0)
-  }
 }
 
 @keyframes flash {
@@ -260,6 +267,20 @@ h3 {
 
 .smallText {
   font-size: 0.9rem;
+}
+
+.accessibleLink {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+}
+
+.musicNotice {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
 }
 
 /*link colours*/
@@ -412,7 +433,7 @@ video:fullscreen {
   left: 0;
   z-index: -5;
   border-radius: 0px;
-  filter: brightness(40%);
+  filter: brightness(40%) blur(3px);
   animation: fadeIn 1s;
 }
 
@@ -510,20 +531,6 @@ th {
     border: 1px solid rgba(255, 255, 255, 0.2);
     padding: 2px;
   }
-}
-
-summary {
-  cursor: pointer;
-  font-size: 16px;
-  font-weight: 700;
-}
-
-/*list*/
-ul,
-ol {}
-
-.taskList {
-  list-style-type: "☑ ";
 }
 
 /*abbreviation tooltips*/
@@ -909,7 +916,7 @@ iframe#commentSection {
   position: fixed;
   top: 10px;
   right: 0;
-  width: 500px;
+  width: 450px;
   border-radius: 15px 0px 0px 15px;
   border: 2px solid rgba(255, 255, 255, 0.4);
   background-color: rgba(0, 0, 0, 0.2);
@@ -1069,16 +1076,6 @@ iframe#commentSection {
   }
 }
 
-/*main page*/
-.news {
-  border: 1px solid #ffffff;
-}
-
-/*fun:
-  filter: blur(8px);
-  backdrop-filter: blur(8px);
-*/
-
 /*blog styles*/
 .blog .title {
   font-size: 35px;
@@ -1207,7 +1204,6 @@ iframe#commentSection {
 
 /*if mobile*/
 @media screen and (max-width: 768px) {
-
   .post {
     padding: 10px;
     margin: 10px 0px 10px 0px;

@@ -1,31 +1,41 @@
 <!DOCTYPE html>
 <html lang="en-GB">
+
 <head>
   <title>Home | SMS Site</title>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
-  <link rel="stylesheet" href="style.css"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="prefetch" href="mainmenu.html" as="document">
+  <link rel="prefetch" href="accessible.html" as="document">
   <script type="text/javascript" src="scripts/title.js" defer></script>
 </head>
-<body onload="sparkle()">
-  <video src="assets/titlescreen/spaceBackground.mp4" autoplay loop muted playsinline id="videoBG"></video>
-  <main>
-    <nav>
-      <span class="header"><a href="versions/">Previous Versions</a></span>
-      <span class="header"><a href="blog/">Blog</a></span>
-      <span class="header"><a href="ideas/">Ideas</a></span>
-    </nav>
 
-    <blockquote class="rainbow">
-      <b>WARNING:</b><br/>
+<body>
+  <video src="assets/titlescreen/skybox.mp4" autoplay loop muted playsinline id="videoBG"></video>
+  <main>
+    <div id="fullFlash" class="hidden"></div>
+    <div class="accessibleLink"><a href="accessible.html">accessible version</a></div>
+
+    <div class="musicNotice">Click anywhere or press any key to enable music</div>
+
+    <blockquote class="rainbow" style="opacity:0">
+      <b>NOTE</b><br />
       This website is unfinished!
     </blockquote>
 
     <!--Start Logo-->
-    
-    <div id="flash" class="center"><img id="logo" class="logo" src="assets/titlescreen/logo.svg" width="1000" height="auto"></div>
-    <div id="fadeIn" class="center"><img id="pressZX" class="pressZX" src="assets/titlescreen/PressZX.svg" width="500" height="auto"></div>
-
+    <div id="flash" class="center">
+      <div id="logoShadow">
+        <img onmouseover="randomHoverSFX()" id="logo" class="logo" src="assets/titlescreen/logo.svg" width="1000"
+          height="auto">
+      </div>
+    </div>
+    <div id="fadeIn" class="center">
+      <img onmouseover="randomHoverSFX()" id="pressZX" class="pressZX" src="assets/titlescreen/PressZX.svg" width="500"
+        height="auto">
+    </div>
 </body>
+
 </html>
