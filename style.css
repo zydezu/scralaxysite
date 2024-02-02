@@ -1306,3 +1306,9 @@ iframe#commentSection {
 		padding: 0.5px 2px;
 	}
 }
+
+.imgRight {
+	float:right;
+	width:300px;
+	padding: 10px;
+}

@@ -47,9 +47,9 @@ v0.4.4 | DoritoDude123 | 2018-05-23
 v0.4.5 | Shy-Reaper | 2018-06-16
 v0.4.5.5 | DoritoDude123 | 2018-06-23
 v0.4.6 | ToadfanTest | 2018-07-26
-v0.4.7 | Hasanmajid10 | 2018-08-09
+v0.4.7 | 016874 | 2018-08-09
 v0.4.8 | redyoshi857 | 2018-08-22
-v0.4.9 | Hasanmajid10 | 2018-09-02
+v0.4.9 | 016874 | 2018-09-02
 v0.5.0 | ToadfanTest | 2018-09-15
 v0.5.1 | LexDoesGames | 2018-11-03
 v0.5.2 | KarateToast | 2018-12-29
@@ -75,8 +75,9 @@ v0.6.4.8 | MagiCarson08 | 2022-02-22
 v0.6.5 | LexDoesGames | 2022-04-07
 v0.6.6 | -CreativeCatTest- | 2022-04-22
 v0.6.6.6 | LexDoesGames | 2022-04-25
-v0.6.7 | Hasanmajid10 | 2022-09-06
+v0.6.7 | 016874 | 2022-09-06
 v0.6.7.5 | ToadfanTest | 2022-09-21
 v0.6.8 | MagiCarson08 | 2022-11-12
 v0.6.9 | -CreativeCatTest- | 2023-04-24
 v0.7.0 | ToadfanTest | 2023-10-16
+v0.7.1 | -CreativeCatTest- | 2024-01-30
