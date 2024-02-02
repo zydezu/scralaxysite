@@ -56,11 +56,13 @@ function flashGoToPage() {
     pressZX.src = "assets/titlescreen/ZXGlow.svg";
     playSound('assets/SFX/start.mp3');
     fullFlash.classList.remove("hidden");
+    keysPressed = {};
 
     setTimeout(function () {
         var pageToGo = "mainmenu.html";
         window.location.href = pageToGo;
     }, 1000)
+    loadingNextPage = false;
 }
 
 function playSound(soundsrc) {
