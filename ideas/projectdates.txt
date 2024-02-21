@@ -81,3 +81,6 @@ v0.6.8 | MagiCarson08 | 2022-11-12
 v0.6.9 | -CreativeCatTest- | 2023-04-24
 v0.7.0 | ToadfanTest | 2023-10-16
 v0.7.1 | -CreativeCatTest- | 2024-01-30
+v0.7.2 | ToadfanTest | 2024-02-03
+v0.7.2.5 | -CreativeCatTest- | 2024-02-05
+v0.7.2.6 | ToadfanTest | 2024-02-05
